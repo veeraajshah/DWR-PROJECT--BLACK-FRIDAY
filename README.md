@@ -1,4 +1,4 @@
-DWR Project - BLACK FRIDAY 
+<h1>DWR Project - BLACK FRIDAY </h1>
 
 Overview: This competition on Analytics Vidhya focuses on predicting customer purchase amounts during Black Friday sales. Participants analyze demographic and product data to uncover purchase patterns, aiming to help retailers better understand consumer behavior and optimize sales strategies.
 
